@@ -1,0 +1,16 @@
+{
+  "name": "tribute_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://jamisays/github.io/tributefcc",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

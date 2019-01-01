@@ -1,0 +1,31 @@
+body {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+  margin: auto;
+  max-width: 550px;
+}
+
+#headline {
+  margin-top: 30px;
+  text-align: left;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+  height: auto;
+}
+
+#img-div {
+  background-color: white;
+  border: 5px solid white;
+}
+
+#img-caption {
+    margin: 15px;
+}
